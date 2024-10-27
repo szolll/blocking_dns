@@ -8,7 +8,7 @@ Some DNS services, such as CleanBrowsing and OpenDNS, allow customizable filters
 
 # Recommended DNS Servers
 
-##DNS.watch
+## DNS.watch
 
 A privacy-focused, uncensored DNS provider.
 
@@ -18,7 +18,7 @@ Secondary: 84.200.70.40
 
 https://dns.watch/
 
-##AdGuard DNS
+## AdGuard DNS
 
 Offers ad-blocking, privacy protection, and optional family-friendly filtering.
 
@@ -30,7 +30,7 @@ Non-filtering: 94.140.14.140, 94.140.14.141
 
 https://kb.adguard.com/en/general/dns-providers#adguard-dns
 
-##CleanBrowsing
+## CleanBrowsing
 
 Provides filtering options with family-safe, adult, and security-focused protection tiers.
 
@@ -42,7 +42,7 @@ Security Filter: 185.228.168.9, 185.228.169.9
 
 https://cleanbrowsing.org/
 
-##Quad9
+## Quad9
 
 Focuses on security by blocking malicious domains based on threat intelligence.
 
@@ -52,7 +52,7 @@ Secondary: 149.112.112.112
 
 https://www.quad9.net/
 
-##Cloudflare DNS
+## Cloudflare DNS
 Privacy-focused and fast, offering both unfiltered (1.1.1.1) and family-friendly filtering options.
 
 Standard: 1.1.1.1, 1.0.0.1
@@ -63,7 +63,7 @@ Family Protection (Malware + Adult Content): 1.1.1.3, 1.0.0.3
 
 https://1.1.1.1/
 
-##OpenDNS
+## OpenDNS
 Provides customizable filtering options for security and family-safe browsing. An account is required for advanced filtering.
 
 Standard: 208.67.222.222, 208.67.220.220
@@ -72,7 +72,7 @@ FamilyShield (Pre-configured for parental control): 208.67.222.123, 208.67.220.1
 
 https://www.opendns.com/
 
-##Google Public DNS
+## Google Public DNS
 
 High-performance DNS with a focus on speed and reliability.
 
@@ -82,7 +82,7 @@ Secondary: 8.8.4.4
 
 https://developers.google.com/speed/public-dns/
 
-##Comodo Secure DNS
+## Comodo Secure DNS
 
 Offers malware protection and security-focused filtering.
 
